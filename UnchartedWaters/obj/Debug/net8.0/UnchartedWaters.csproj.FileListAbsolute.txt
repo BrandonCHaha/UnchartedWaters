@@ -1,0 +1,14 @@
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\bin\Debug\net8.0\UnchartedWaters.exe
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\bin\Debug\net8.0\UnchartedWaters.deps.json
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\bin\Debug\net8.0\UnchartedWaters.runtimeconfig.json
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\bin\Debug\net8.0\UnchartedWaters.dll
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\bin\Debug\net8.0\UnchartedWaters.pdb
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.AssemblyInfoInputs.cache
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.AssemblyInfo.cs
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.csproj.CoreCompileInputs.cache
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.dll
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\refint\UnchartedWaters.dll
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.pdb
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.genruntimeconfig.cache
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\ref\UnchartedWaters.dll

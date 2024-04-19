@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MCA-24\\Documents\\GitHub\\UnchartedWaters\\UnchartedWaters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6F69C-B29F-4845-B5AA-B66270CD0692}|UnchartedWaters.csproj|c:\\users\\mca-24\\documents\\github\\unchartedwaters\\unchartedwaters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB6F69C-B29F-4845-B5AA-B66270CD0692}|UnchartedWaters.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MCA-24\\Documents\\GitHub\\UnchartedWaters\\UnchartedWaters\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MCA-24\\Documents\\GitHub\\UnchartedWaters\\UnchartedWaters\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:31:44.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
