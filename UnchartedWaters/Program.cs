@@ -4,11 +4,10 @@ namespace UnchartedWaters {
     internal class Program {
         static void Main(string[] args) {
 
-            int[,,] data = new int[10, 10, 3];
-            data = GetSatelliteData();
-            Console.WriteLine($"Surface sub density         -  {GetLayerPercentage(data, 0)}\n");
-            Console.WriteLine($"Underwater sub density      -  {GetLayerPercentage(data, 1)}\n");
-            Console.WriteLine($"Deep ocean sub density      -  {GetLayerPercentage(data, 2)}\n");
+            int[,,] data = GetSatelliteData();
+            Console.WriteLine($"Surface sub density         -  %{GetLayerPercentage(data, 0)}\n");
+            Console.WriteLine($"Underwater sub density      -  %{GetLayerPercentage(data, 1)}\n");
+            Console.WriteLine($"Deep ocean sub density      -  %{GetLayerPercentage(data, 2)}\n");
             Console.WriteLine($"Ally to enemy sub ratio     -  {GetRatio(data)}\n");
             Console.WriteLine($"Attack on surface layer     -  {AttackDecider(data, 0)}\n");
             Console.WriteLine($"Attack on underwater layer  -  {AttackDecider(data, 1)}\n");
@@ -40,7 +39,6 @@ namespace UnchartedWaters {
         }//END GET SATELLITE DATE FUNCTION
 
         static double GetLayerPercentage(int[,,] data, int z) {
-            double percentage = 0.0;
             double subs = 0;
             
                 for (int y = 0; y < data.GetLength(1); y++) {
@@ -50,9 +48,8 @@ namespace UnchartedWaters {
                         }//END IF
                     }//END FOR
                 }//END FOR
-                
-            percentage = subs / 100;           
-            return percentage;
+                           
+            return subs;
 
         }//END GET LAYER PERCENTAGE FUNCTION
 
