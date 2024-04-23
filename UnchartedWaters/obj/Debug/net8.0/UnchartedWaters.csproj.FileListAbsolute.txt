@@ -12,3 +12,4 @@ C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.
 C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.pdb
 C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.genruntimeconfig.cache
 C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\ref\UnchartedWaters.dll
+C:\Users\MCA-24\Documents\GitHub\UnchartedWaters\UnchartedWaters\obj\Debug\net8.0\UnchartedWaters.sourcelink.json
